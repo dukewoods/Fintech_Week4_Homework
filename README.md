@@ -223,3 +223,6 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+---
+README file produced by edX Boot Camps LLC. 
+Whale_analysis produced solely by Joshua Woods. 
